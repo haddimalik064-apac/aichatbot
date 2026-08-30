@@ -1,6 +1,3 @@
-export const config = {
-  runtime: "edge",
-};
 
 const SYSTEM_PROMPT = "You are a helpful, intelligent AI assistant.";
 
